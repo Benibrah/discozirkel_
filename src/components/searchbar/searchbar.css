@@ -1,0 +1,69 @@
+.SearchBar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 20rem;
+    background-image: url('https://s3.relentlessenergy.com/mec-relentless/media/uploads_image/2018/02/06/1600/400/97082eb36731e96f0680fc1a8ad32707.jpg?mod=1517921050');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.SearchBar-fields {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2.88rem;
+    filter: blur(0px);
+}
+
+.SearchBar-fields input {
+    width: 21rem;
+    padding: .66rem 1rem;
+    margin-right: 2.22rem;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-size: .77rem;
+    font-weight: 500;
+}
+
+.SearchBar-fields input:last-child {
+    margin-right: 0;
+}
+
+.SearchBar-submit {
+    text-align: center;
+}
+
+.SearchBar-submit a {
+    border-radius: 4px;
+    padding: .72rem 1.7rem;
+    background-color: #6464c8;
+    color: #ffffff;
+    font-weight: 600;
+    transition: background-color .5s;
+}
+
+.SearchBar-submit a:hover {
+    cursor: pointer;
+    background-color: #6464c8;
+}
+
+@media only screen and (max-width: 560px) {
+    .SearchBar {
+        background-image: url('https://images.thewest.com.au/publication/B881039556Z/1545352550473_GFV1VCHF6.1-0.jpg?imwidth=640&imformat=generic');
+    }
+
+    .SearchBar-sort-options ul {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    .SearchBar-fields {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .SearchBar-fields input {
+        margin-right: 0;
+        margin-bottom: .86rem;
+    }
+}
