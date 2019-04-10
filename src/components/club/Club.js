@@ -2,12 +2,12 @@ import React from "react";
 import "./club.css";
 
 class Club extends React.Component {
+
     clubProp = {
-        imageSrc: 'https://images.pexels.com/photos/1449791/pexels-photo-1449791.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        imageSrc: 'https://loremflickr.com/600/600/music,party,club?random=' + Math.random(100),
         name: this.props.title,
         address: 'Hauptstraße 42',
         city: 'Braunschweig',
-        state: 'DE',
         zipCode: '38114',
         category: 'Studenten',
         rating: 4.5,
@@ -18,7 +18,7 @@ class Club extends React.Component {
         return (
             <div className="Club">
                 <div className="image-container">
-                    <img src={this.clubProp.imageSrc} width="300px" height="200px" alt="ClubExamplePic"/>
+                    <img src={this.clubProp.imageSrc} width="400px" height="300px" alt="ClubExamplePic"/>
                 </div>
                 <h2>{this.clubProp.name}</h2>
                 <div className="Business-information">

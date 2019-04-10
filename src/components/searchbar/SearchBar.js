@@ -1,7 +1,15 @@
 import React from "react";
 import "./searchbar.css";
+import {connect} from "react-redux";
 
+let inputField = <input placeholder="Suche Clubs"/>;
 class SearchBar extends React.Component {
+    constructor(props) {
+        super(props);
+
+        this.handleClick = this.handleClick.bind(this);
+    }
+
     render() {
         return (
             <div className="SearchBar">
@@ -9,12 +17,19 @@ class SearchBar extends React.Component {
                     <input placeholder="Suche Clubs"/>
                     <input placeholder="Wo?"/>
                 </div>
-                <div className="SearchBar-submit">
+                <div className="SearchBar-submit" onClick={this.handleClick}>
                     <a>Suchen!</a>
                 </div>
             </div>
         )
     }
+
+    handleClick() {
+    }
 }
 
-export default SearchBar;
+const mapDispatchToProps = (dispatch) => {
+    return {}
+}
+
+export default connect(null, mapDispatchToProps)(SearchBar)

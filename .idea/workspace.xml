@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a27d136-22d5-4b9d-a391-2c9d0a516394" name="Default Changelist" comment="Static version">
+      <change afterPath="$PROJECT_DIR$/.idea/discozirkel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/rootReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/club/Club.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/club/Club.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/club/club.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/club/club.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/clublist/ClubList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/clublist/ClubList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/searchbar/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchbar/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/searchbar/searchbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchbar/searchbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/club/Club.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/club/club.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/reducers/rootReducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/clublist/clublist.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/clublist/ClubList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/searchbar/SearchBar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" selection-start-line="29" selection-end-line="33" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/club/club.js" />
+        <option value="$PROJECT_DIR$/src/components/clublist/clublist.js" />
+        <option value="$PROJECT_DIR$/src/components/SearchBar/searchbar.css" />
+        <option value="$PROJECT_DIR$/src/components/SearchBar/SearchBar.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/clublist/Clublist.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/public/reset.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/components/clublist/clublist.css" />
+        <option value="$PROJECT_DIR$/src/components/club/club.css" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/searchbar/searchbar.css" />
+        <option value="$PROJECT_DIR$/src/components/club/Club.js" />
+        <option value="$PROJECT_DIR$/src/components/clublist/ClubList.js" />
+        <option value="$PROJECT_DIR$/src/actions/index.js" />
+        <option value="$PROJECT_DIR$/src/components/searchbar/SearchBar.js" />
+        <option value="$PROJECT_DIR$/src/reducers/rootReducer.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="discozirkel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Lenovo\Desktop\discozirkel" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="discozirkel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Lenovo\Desktop\discozirkel" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="discozirkel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Lenovo\Desktop\discozirkel" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="discozirkel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Lenovo\Desktop\discozirkel" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="actions" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="discozirkel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Lenovo\Desktop\discozirkel" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="discozirkel" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Lenovo\Desktop\discozirkel" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="searchbar" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a27d136-22d5-4b9d-a391-2c9d0a516394" name="Default Changelist" comment="" />
+      <created>1553554805746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553554805746</updated>
+      <workItem from="1553554808061" duration="8291000" />
+      <workItem from="1553616773575" duration="17027000" />
+      <workItem from="1553778559754" duration="19526000" />
+      <workItem from="1554829249537" duration="11822000" />
+      <workItem from="1554909557625" duration="7441000" />
+    </task>
+    <task id="LOCAL-00001" summary="Static version">
+      <created>1553694721053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553694721053</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64107000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Static version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static version" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/favicon.svg" />
+    <entry file="file://$PROJECT_DIR$/src/logo.svg" />
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/Lenovo/Desktop/discozirkel">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/src/App.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.css</node>
+            <node x="" y="">$PROJECT_DIR$/src/App.js#App.css#27;C:/Users/Lenovo/Desktop/discozirkel/src/App.js#ClubList#54;C:/Users/Lenovo/Desktop/discozirkel/src/App.js#React#7;C:/Users/Lenovo/Desktop/discozirkel/src/App.js#SearchBar#109;</node>
+            <node x="" y="">$PROJECT_DIR$/src/App.test.js#App#68;C:/Users/Lenovo/Desktop/discozirkel/src/App.test.js#React#7;C:/Users/Lenovo/Desktop/discozirkel/src/App.test.js#ReactDOM#34;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.test.tsx#App#68;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-scripts/template-typescript/src/App.test.tsx#React#7;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-scripts/template-typescript/src/App.test.tsx#ReactDOM#34;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/App.tsx#App.css#73;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-scripts/template-typescript/src/App.tsx#Component#16;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-scripts/template-typescript/src/App.tsx#React#7;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-scripts/template-typescript/src/App.tsx#logo#49;</node>
+            <node x="" y="">$PROJECT_DIR$/src/components/club/Club.js#React#7;C:/Users/Lenovo/Desktop/discozirkel/src/components/club/Club.js#club.css#27;</node>
+            <node x="" y="">$PROJECT_DIR$/src/components/clublist/ClubList.js#Axios#34;C:/Users/Lenovo/Desktop/discozirkel/src/components/clublist/ClubList.js#Club#86;C:/Users/Lenovo/Desktop/discozirkel/src/components/clublist/ClubList.js#React#7;C:/Users/Lenovo/Desktop/discozirkel/src/components/clublist/ClubList.js#clublist.css#54;</node>
+            <node x="" y="">$PROJECT_DIR$/src/components/searchbar/SearchBar.js#React#7;C:/Users/Lenovo/Desktop/discozirkel/src/components/searchbar/SearchBar.js#searchbar.css#27;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/async_hooks.d.ts#AsyncResource#3424;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/prop-types/checkPropTypes.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/child_process.d.ts#Pipe#144;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/child_process.d.ts#Readable#126;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/child_process.d.ts#Stream#136;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/child_process.d.ts#Writable#116;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/child_process.d.ts#events#44;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/child_process.d.ts#net#82;</node>
+            <node x="" y="">$PROJECT_DIR$/src/components/club/club.css</node>
+            <node x="" y="">$PROJECT_DIR$/src/components/clublist/clublist.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/cluster.d.ts#child#38;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/cluster.d.ts#events#82;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/cluster.d.ts#net#120;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/crypto.d.ts#stream#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/dgram.d.ts#AddressInfo#38;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/dgram.d.ts#dns#75;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/dgram.d.ts#events#107;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/dns.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/domain.d.ts#events#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/events.d.ts#EventEmitter#112;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/fs.d.ts#URL#111;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/fs.d.ts#events#71;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/fs.d.ts#stream#33;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/http.d.ts#IncomingHttpHeaders#241;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http.d.ts#NetServer#152;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http.d.ts#OutgoingHttpHeaders#2202;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http.d.ts#Socket#144;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http.d.ts#URL#113;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http.d.ts#events#35;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http.d.ts#stream#73;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/http2.d.ts#Http1IncomingHttpHeaders#241;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http2.d.ts#OutgoingHttpHeaders#290;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http2.d.ts#events#36;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http2.d.ts#fs#74;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http2.d.ts#net#104;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http2.d.ts#stream#136;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http2.d.ts#tls#174;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/http2.d.ts#url#206;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/https.d.ts#URL#142;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/https.d.ts#events#68;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/https.d.ts#http#106;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/https.d.ts#tls#36;</node>
+            <node x="" y="">$PROJECT_DIR$/src/index.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/index.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/unist/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/vfile-message/index.d.ts#Unist#296;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/vfile/index.d.ts#Unist#331;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/vfile/index.d.ts#vfileMessage#363;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/axios/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/object-assign/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/src/index.js#App#90;C:/Users/Lenovo/Desktop/discozirkel/src/index.js#React#7;C:/Users/Lenovo/Desktop/discozirkel/src/index.js#ReactDOM#34;C:/Users/Lenovo/Desktop/discozirkel/src/index.js#index.css#61;C:/Users/Lenovo/Desktop/discozirkel/src/index.js#serviceWorker#115;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/index.js#react-dom.development.js#1318;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/index.js#react-dom.production.min.js#1244;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/index.js#react.development.js#149;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react/index.js#react.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/scheduler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/index.tsx#App#90;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-scripts/template-typescript/src/index.tsx#React#7;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-scripts/template-typescript/src/index.tsx#ReactDOM#34;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-scripts/template-typescript/src/index.tsx#index.css#61;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-scripts/template-typescript/src/index.tsx#serviceWorker#115;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/inspector.d.ts#EventEmitter#345;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/logo.svg</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/net.d.ts#AddressInfo#310;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/net.d.ts#Server#7144;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/net.d.ts#Socket#942;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/net.d.ts#dns#110;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/net.d.ts#events#72;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/net.d.ts#stream#34;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/perf_hooks.d.ts#AsyncResource#43;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/profiling.js#react-dom.development.js#1317;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/profiling.js#react-dom.profiling.min.js#1244;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/querystring.d.ts#ParsedUrlQuery#245;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/lib/react-app.d.ts#React#702;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js#React#396;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-server.browser.development.js#_assign#356;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-server.browser.development.js#checkPropTypes#426;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js#react#393;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js#p#279;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js#q#306;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js#react#361;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js#React#393;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-server.node.development.js#_assign#353;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-server.node.development.js#checkPropTypes#423;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-server.node.development.js#stream#482;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js#aa#322;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-server.node.production.min.js#p#276;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-server.node.production.min.js#q#303;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.development.js#React#392;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-test-utils.development.js#ReactDOM#422;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-test-utils.development.js#_assign#352;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.development.js#index.js#407;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/umd/react-dom-test-utils.development.js#react#389;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js#g#275;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js#l#302;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js#m#321;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.production.min.js#index.js#374;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/umd/react-dom-test-utils.production.min.js#react#357;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#React#355;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#_assign#385;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#checkPropTypes#425;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#scheduler#484;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js#tracing#522;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fire.development.js#react#392;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fire.production.min.js#aa#325;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-fire.production.min.js#n#345;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-fire.production.min.js#r#372;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fire.production.min.js#react#410;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fire.profiling.min.js#aa#324;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-fire.profiling.min.js#n#344;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-fire.profiling.min.js#r#371;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-fire.profiling.min.js#v#394;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fire.profiling.min.js#react#408;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.browser.development.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.browser.production.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.node.development.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.node.production.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js#ReactDOM#370;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js#_assign#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.development.js#index.js#407;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.development.js#react#429;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js#k#293;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js#l#316;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.production.min.js#index.js#375;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.production.min.js#react#396;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js#React#341;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom.development.js#_assign#371;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom.development.js#checkPropTypes#411;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom.development.js#scheduler#470;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom.development.js#tracing#508;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js#react#378;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js#aa#311;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom.production.min.js#n#331;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom.production.min.js#r#358;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js#react#396;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.profiling.min.js#aa#310;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom.profiling.min.js#n#330;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom.profiling.min.js#r#357;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/cjs/react-dom.profiling.min.js#v#380;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.profiling.min.js#react#394;</node>
+            <node x="" y="">$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/cjs/react.development.js#_assign#337;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react/cjs/react.development.js#checkPropTypes#377;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js#k#260;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/readline.d.ts#AsyncCompleter#4995;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/readline.d.ts#Completer#4939;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/readline.d.ts#Interface#259;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/readline.d.ts#events#39;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/readline.d.ts#stream#77;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/repl.d.ts#AsyncCompleter#59;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/repl.d.ts#Completer#48;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/repl.d.ts#Context#106;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/repl.d.ts#InspectOptions#140;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/repl.d.ts#Interface#37;</node>
+            <node x="" y="">$PROJECT_DIR$/public/reset.css</node>
+            <node x="" y="">$PROJECT_DIR$/src/components/searchbar/searchbar.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/server.browser.js#react-dom-server.browser.development.js#168;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/server.browser.js#react-dom-server.browser.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/server.js#server.node.js#32;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/server.node.js#react-dom-server.node.development.js#165;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/server.node.js#react-dom-server.node.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/src/serviceWorker.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-scripts/template-typescript/src/serviceWorker.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/stream.d.ts#Pipe#16497;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/stream.d.ts#Readable#637;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/stream.d.ts#Stream#250;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/stream.d.ts#Writable#5510;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/stream.d.ts#events#37;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/test-utils.js#react-dom-test-utils.development.js#164;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/test-utils.js#react-dom-test-utils.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/tls.d.ts#crypto#34;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/tls.d.ts#dns#72;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/tls.d.ts#net#104;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/tls.d.ts#stream#136;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/scheduler/tracing.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/tty.d.ts#net#34;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/unstable-fizz.browser.js#react-dom-unstable-fizz.browser.development.js#175;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/unstable-fizz.browser.js#react-dom-unstable-fizz.browser.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/unstable-fizz.js#unstable-fizz.node.js#32;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/unstable-fizz.node.js#react-dom-unstable-fizz.node.development.js#172;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/unstable-fizz.node.js#react-dom-unstable-fizz.node.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/react-dom/unstable-native-dependencies.js#react-dom-unstable-native-dependencies.development.js#182;C:/Users/Lenovo/Desktop/discozirkel/node_modules/react-dom/unstable-native-dependencies.js#react-dom-unstable-native-dependencies.production.min.js#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/url.d.ts#ParsedUrlQuery#36;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/url.d.ts#URL#2256;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/util.d.ts#InspectOptions#28;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/vm.d.ts#Context#26;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/worker_threads.d.ts#EventEmitter#47;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/worker_threads.d.ts#Readable#90;C:/Users/Lenovo/Desktop/discozirkel/node_modules/@types/node/worker_threads.d.ts#Writable#100;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@types/node/zlib.d.ts#stream#35;</node>
+            <node x="" y="">%PUBLIC_URL%/favicon.ico</node>
+            <node x="" y="">%PUBLIC_URL%/favicon.icon</node>
+            <node x="" y="">%PUBLIC_URL%/manifest.json</node>
+            <node x="" y="">https://fonts.googleapis.com/css?family=Poppins:600</node>
+            <node x="" y="">https://fonts.googleapis.com/css?family=Work+Sans:300,500,600</node>
+            <node x="" y="">Component;</node>
+            <node x="" y="">react-dom</node>
+            <node x="" y="">stream</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6548463356973995" x="2006.0" y="2151.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/club/club.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/searchbar/searchbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/clublist/clublist.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/club/Club.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/searchbar/SearchBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/clublist/ClubList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/rootReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
